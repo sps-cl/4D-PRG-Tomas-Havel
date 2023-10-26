@@ -1,0 +1,2 @@
+Player1 = W - UP ; S - DOWN
+Player2 = arrowup - UP ; arrowdown - DOWN

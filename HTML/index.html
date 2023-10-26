@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="cz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML</title>
+    <link rel="icon" href="icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Opakování HTML</h1>  
+    <p>Lorem, <br> ipsum dolor &nbsp; &nbsp; sit amet consectetur,<strong>adipisicing elit.</strong>  <em>Aliquam molestiae</em> <strike>libero culpa</strike><sup>est</sup> voluptas <sub>unde</sub>  maiores nihil aliquid hic earum necessitatibus quam, iure, facilis vel optio sit dolores assumenda incidunt!</p>
+    <a href="kontakty.html">Kontakty</a>
+    <a href="https://www.sps-cl.cz">sps-cl</a>
+    <img src="icon.png" width="200" alt="PI" title="PI">
+    <table>
+        <thead>
+            <tr>
+            <th>1. Sloupec</th>
+            <th>2. Sloupec</th>
+            <th>3. Sloupec</th>
+            <th>4. Sloupec</th>
+        </tr>
+        </thead>
+        <tbody>
+           <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td colspan="4">1</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td colspan="3">2</td>
+        </tr> 
+        </tbody>
+        
+    </table>
+
+    <input type="button" value="Button" onclick="alert('!!Varování, vypustil jsi atomovku na IZRAEL!!')"></input>
+    <input type="button" value="Scitat" name="Tlacitko" onclick="alert(Number(document.getElementById('vstup1').value)+Number(Number(document.getElementById('vstup2').value)))">
+    <input type="number" name="1" onchange="alert(this.value)" id="vstup1">
+    <input type="number" name="1" onchange="alert(this.value)" id="vstup2">
+</body>
+</html>

@@ -1,0 +1,28 @@
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\bin\Debug\net7.0\PingPong.exe
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\bin\Debug\net7.0\PingPong.deps.json
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\bin\Debug\net7.0\PingPong.runtimeconfig.json
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\bin\Debug\net7.0\PingPong.dll
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\bin\Debug\net7.0\PingPong.pdb
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.AssemblyInfo.cs
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.dll
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\refint\PingPong.dll
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.pdb
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\PingPong.genruntimeconfig.cache
+C:\Users\Tomáš\Desktop\C#\PingPong\PingPong\obj\Debug\net7.0\ref\PingPong.dll
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\bin\Debug\net7.0\PingPong.exe
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\bin\Debug\net7.0\PingPong.deps.json
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\bin\Debug\net7.0\PingPong.runtimeconfig.json
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\bin\Debug\net7.0\PingPong.dll
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\bin\Debug\net7.0\PingPong.pdb
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.AssemblyInfo.cs
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.dll
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\refint\PingPong.dll
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.pdb
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\PingPong.genruntimeconfig.cache
+C:\Users\tomas\Desktop\GIT Škola\Dinosaur\PingPong\PingPong\PingPong\obj\Debug\net7.0\ref\PingPong.dll

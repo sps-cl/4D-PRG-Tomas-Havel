@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Samostatná práce/1.0.0": {
+        "runtime": {
+          "Samostatná práce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Samostatná práce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

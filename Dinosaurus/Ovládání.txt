@@ -1,0 +1,3 @@
+W = Jump , Stand up
+S = Crouch
+R = Reset after death
